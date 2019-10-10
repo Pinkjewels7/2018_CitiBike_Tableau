@@ -43,4 +43,13 @@ The average gender of CitiBike users in 2018 was Males by 68% then Females with 
 I also mapped the usertype which showed that 9 out of 10 users in 2018 were subscribers. I think location does affect usertype since we notice that the stations located in The Bronx are primarily used by customers and not subscribers like urban areas. This leads me to assume individuals living farther out of the city own cars or use other forms of public transportation like the train instead of renting CitiBikes for their daily commute.
 
 <p align='center'><img src='Images/Usertype.png'></p>
+<br><br>
 
+### Phenomena 5: Stations
+* Which stations are most popular?
+* Which stations are least popular?
+
+Most popular stations are located in urban areas and least popular stations are located in The Bronx. This information can be utilized to help setup a maintenance program for current bikes in popular stations. I would also suggest providing student discounts in The Bronx area near the college to increase usage among student customers and possibly transition them to full-time subscribers. 
+
+<p align='center'><img src='Images/Stations.png'></p>
+<br><br>
