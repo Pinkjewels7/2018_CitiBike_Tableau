@@ -4,7 +4,7 @@
 
 ## My discovered phenomena with Tableau supporting visualizations
 Once I chose my dataset of 2018 and performed ETL I was able to answer the below questions based off my visualizations. 
-
+<p align='center'><img src='Images/CitiBikeDemographics.png'><img src='Images/PeakMonths.png'></p>
 <br><br>
 
 ### Phenomena 1: Age of Users
