@@ -1,5 +1,5 @@
 # 2018 CitiBike Tableau  
-<p align='center'><(Images/CitiBikeStory.png)></p>
+<p align='center'><img src='Images/CitiBikeStory.png'></p>
 <br><br>
 
 ## My discovered phenomena with Tableau supporting visualizations
